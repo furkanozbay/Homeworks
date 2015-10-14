@@ -1,0 +1,6 @@
+C:\Users\Furkan\Desktop\Çalışmalar\C# Çalışmalar\Homework3\Homework3\bin\Debug\Homework3.exe.config
+C:\Users\Furkan\Desktop\Çalışmalar\C# Çalışmalar\Homework3\Homework3\bin\Debug\Homework3.exe
+C:\Users\Furkan\Desktop\Çalışmalar\C# Çalışmalar\Homework3\Homework3\bin\Debug\Homework3.pdb
+C:\Users\Furkan\Desktop\Çalışmalar\C# Çalışmalar\Homework3\Homework3\obj\Debug\Homework3.exe
+C:\Users\Furkan\Desktop\Çalışmalar\C# Çalışmalar\Homework3\Homework3\obj\Debug\Homework3.pdb
+C:\Users\Furkan\Desktop\Çalışmalar\C# Çalışmalar\Homework3\Homework3\obj\Debug\Homework3.csprojResolveAssemblyReference.cache
